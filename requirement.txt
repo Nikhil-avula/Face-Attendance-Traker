@@ -1,0 +1,9 @@
+opencv-python
+scikit-learn
+seaborn
+pandas
+numpy
+streamlit
+mediapipe
+mlxtend
+datetime
